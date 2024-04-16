@@ -1,9 +1,6 @@
 # use glob syntax.
 syntax: glob
 
-*.fbm
-*.meta
-Materials
 Logs
 UserSettings
 Library
